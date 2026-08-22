@@ -13,7 +13,7 @@
 
 ## Currently Studying
 
-- JavaScript, Julia, Phyton fundamentals
+- JavaScript, Julia, Python fundamentals
 - SQL databases
 - Git and GitHub
 - Guarani language
