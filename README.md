@@ -1,32 +1,32 @@
 ## Hello everyone, I'm Arthur Motta, an aspiring software developer from Brazil 🇧🇷
 
-- 🔭 I’m currently working on school projects and playing in my band
-- 🌱 I’m currently learning JavaScript, SQL, and new languages
-- 👯 I’m looking to collaborate on beginner-friendly projects to gain experience
-- 🤔 I’m looking for help with backend development and open source contribution
-- 💬 Ask me about music, beginner programming, and school projects
-- 📫 How to reach me: arthurjoaquimmotta3@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love learning new things, but what I enjoy studying the most is languages (I speak Portuguese, English, and Rioplatense Spanish, and I’m currently learning Swedish)
+- I’m currently working on school projects and playing in my band
+- I’m currently learning JavaScript, SQL, and new languages
+- I’m looking to collaborate on beginner-friendly projects to gain experience
+- I’m looking for help with backend development and open source contribution
+- Ask me about music, beginner programming, and school projects
+- How to reach me: arthurjoaquimmotta3@gmail.com
+- Pronouns: He/Him
+- Fun fact: I love learning new things, but what I enjoy studying the most is languages (I speak Portuguese, English, and Rioplatense Spanish, and I’m currently learning Guarani)
 
 ---
 
-## 🧠 Currently Studying
+## Currently Studying
 
 - JavaScript fundamentals
 - SQL databases
 - Git and GitHub
-- Swedish language
+- Guarani language
 
 ---
 
-## 🎵 Interests
+## Interests
 
 Music • Programming • Languages • Technology • Open Source
 
 ---
 
-## 🚀 Technologies I'm Learning
+## Technologies I'm Learning
 
 <div align="center">
 
