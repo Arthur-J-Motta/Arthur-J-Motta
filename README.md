@@ -13,10 +13,11 @@
 
 ## Currently Studying
 
-- JavaScript fundamentals
+- JavaScript, Julia, Phyton fundamentals
 - SQL databases
 - Git and GitHub
 - Guarani language
+- Music theory
 
 ---
 
