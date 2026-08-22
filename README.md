@@ -1,4 +1,4 @@
-## Hello everyone, I'm Arthur Motta, an aspiring software developer from Brazil 🇧🇷
+## Hello everyone, I'm Arthur Motta, an aspiring software developer from Brazil 
 
 - I’m currently working on school projects and playing in my band
 - I’m currently learning JavaScript, SQL, and new languages
