@@ -7,7 +7,7 @@
 - Ask me about music, beginner programming, and school projects
 - How to reach me: arthurjoaquimmotta3@gmail.com
 - Pronouns: He/Him
-- Fun fact: I love learning new things, but what I enjoy studying the most is languages (I speak Portuguese, English, and Rioplatense Spanish, and I’m currently learning Guarani)
+- Fun fact: I love learning new things, but what I enjoy studying the most is languages (I speak Portuguese, English, and Rioplatense Spanish, and I’m currently learning Serbian and Italian)
 
 ---
 
@@ -16,7 +16,7 @@
 - JavaScript, Julia, Python fundamentals
 - SQL databases
 - Git and GitHub
-- Guarani language
+- Serbian and Italian language
 - Music theory
 
 ---
