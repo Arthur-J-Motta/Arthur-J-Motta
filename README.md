@@ -7,7 +7,7 @@
 - Ask me about music, beginner programming, and school projects
 - How to reach me: arthurjoaquimmotta3@gmail.com
 - Pronouns: He/Him
-- Fun fact: I love learning new things, but what I enjoy studying the most is languages (I speak Brazilian Portuguese, but I'm also learning the Portuguese from Portugal), Aussie English, and Rioplatense Spanish/Castilian, and I’m currently learning Serbian and Italian)
+- Fun fact: I love learning new things, but what I enjoy studying the most is languages (I speak Brazilian Portuguese and Standard Portuguese, but I'm also learning the Portuguese from Portugal), Standard English (I'm also learning the "Aussie" English), and Rioplatense (Argentine/Uruguayan) and Standard Spanish/Castilian, and I’m currently learning Serbian and Italian
 
 ---
 
